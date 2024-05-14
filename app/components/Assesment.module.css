@@ -1,0 +1,34 @@
+/* Styles for QuestionGenerator component */
+
+/* Container styles */
+.question-generator-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  /* Button styles */
+  .question-generator-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .question-generator-button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Question styles */
+  .question-generator-question {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
